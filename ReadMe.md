@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/logo_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset=".github/assets/logo_light.png">
+    <source media="(prefers-color-scheme: dark)" srcset=".">
+    <source media="(prefers-color-scheme: light)" srcset=".">
     <img
         alt="Momentum Firmware"
         src=".github/assets/logo_dark.png">
