@@ -1,5 +1,5 @@
 <br>
-<h2 align="center">GhostShell Firmware
+<h3 align="center">GhostShell Firmware
 <h2 align="center">
   <a href="#Install">Install</a> · <a href="#list-of-changes">Features</a> · <a href="https://discord.gg/momentum">Discord</a> · <a href="#%EF%B8%8F-support">Donate</a>
 </h2>
