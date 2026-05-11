@@ -1,13 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".">
-    <source media="(prefers-color-scheme: light)" srcset=".">
-    <img
-        alt="Momentum Firmware"
-        src=".github/assets/logo_dark.png">
-  </picture>
-</p>
-
+GhostShell Firmware
 <h2 align="center">
   <a href="#Install">Install</a> · <a href="#list-of-changes">Features</a> · <a href="https://discord.gg/momentum">Discord</a> · <a href="#%EF%B8%8F-support">Donate</a>
 </h2>
@@ -30,7 +21,7 @@ The goal of this firmware is to constantly push the bounds of what is possible w
 Note that mentioned below are only a few of our staple additions to the firmware. For a full list check [down here](https://github.com/Next-Flip/Momentum-Firmware#List-of-Changes).
 
 <br>
-<h2 align="center">Momentum Settings</h2>
+<h2 align="center">GhostShell Settings</h2>
 
 We offer a powerful and easy-to-use application tailor-made for our firmware, that lets you configure everything you could dream of, and more:
 
